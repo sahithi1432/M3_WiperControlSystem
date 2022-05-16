@@ -24,18 +24,6 @@ With the automatic wiper, the driver can avert from the risk of an accident. The
 the heavy traffic e.g. in town, city, school zone and other public place. A driver may be subjected to many distractions
 with bad weather, dangerous road conditions and fatigue. 
 
-## 4W and 1H
-
-### who
-Vehicle Owners
-
-### what
-LEDs
-
-### when 
-ON, OFF
-### where
-Vehicles, Cars
 
 
 ## Details Requirements
